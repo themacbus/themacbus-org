@@ -1,13 +1,11 @@
-# The MAC Bus, Inc. (React Site)
+# The MAC Bus, Inc. (Full Site)
 
-This is the custom React-based website for The MAC Bus, Inc., designed to be deployed via Vercel.
+This is the complete website for The MAC Bus, Inc., ready to deploy via Vercel.
 
-## How to Run Locally
-
-1. Install dependencies:
-   npm install
-
-2. Start dev server:
-   npm run dev
-
-3. Push to GitHub and deploy to Vercel.
+Includes:
+- Mission/Vision
+- Route Map
+- About Us
+- Leadership
+- Sponsorship
+- "How to Ride" & Jobs info
