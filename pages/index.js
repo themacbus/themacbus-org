@@ -1,4 +1,5 @@
-import Image from "next/image";
+import Image from "<Image src="/macbus-logo.jpg" alt="The MAC Bus Logo" width={200} height={200} className="rounded-xl" />
+";
 
 export default function HomePage() {
   return (
