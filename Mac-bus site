@@ -1,0 +1,4 @@
+npm create vite@latest mac-bus-site -- --template react
+cd mac-bus-site
+npm install
+npm run dev
